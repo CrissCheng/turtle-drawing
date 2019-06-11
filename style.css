@@ -1,0 +1,13 @@
+body {
+}
+
+.jscolor {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+canvas#myCanvas {
+	border: 1px solid black;
+	display: block;
+}
